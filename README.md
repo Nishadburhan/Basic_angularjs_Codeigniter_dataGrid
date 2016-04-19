@@ -5,4 +5,4 @@ Basic AngularJs DataGrid With CodeigniterHMVC
 1. Download and unzip the file to *wamp/www/*
 2. Setup Database *application/config/database.php*.
 3. Create Database **datagrid**, and create a table **tbl_packages**.
-4. Import *MySQL* table **tbl_packages** from *application/DB/**tbl_packages***.
+4. Import *MySQL* table **tbl_packages** from *application/DB/__tbl_packages.sql__*.
