@@ -1,0 +1,2 @@
+# Basic_angularjs_Codeigniter_dataGrid
+Basic AngularJs DataGrid With CodeigniterHMVC
